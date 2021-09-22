@@ -1,10 +1,11 @@
 # DL Programming Exercises <br />
 
 **Programming language:** Python <br />
-**Source:** <br /> [MIT 6.S191](http://introtodeeplearning.com/) <br />
-[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) <br />
-[Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) <br />
-[Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning) <br />
+**Source:** <br /> 
+- [MIT 6.S191](http://introtodeeplearning.com/) <br />
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) <br />
+- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) <br />
+- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning) <br />
 
 <br />
 
