@@ -16,6 +16,7 @@
 - Optimization methods
 - Regularization
 - Tensorflow tutorial
+<br />
 
 2. [Convolutional neural networks](https://github.com/jiayinghsu/dl_programming_exercises/tree/main/Convolutional%20Neural%20Networks)
 - ConvNet step by step + application 
