@@ -42,13 +42,16 @@
 - Machine translation
 - Trigger word detection 
 - Word vector representation
+<br />
 
 7. [Lab 1](https://github.com/jiayinghsu/dl_programming_exercises/tree/main/lab1)
 - Music generation with RNN
+<br />
 
 8. [Lab 2](https://github.com/jiayinghsu/dl_programming_exercises/tree/main/lab2)
 - MNIST digit classification 
 - Debiasing facial detection system
+<br />
 
 9. [Lab 3](https://github.com/jiayinghsu/dl_programming_exercises/tree/main/lab3)
 - Reinforcement learning 
