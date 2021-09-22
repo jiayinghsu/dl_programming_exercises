@@ -35,10 +35,20 @@
 <br />
 
 6. [Sequence models](https://github.com/jiayinghsu/dl_programming_exercises/tree/main/Sequence%20Models)
-- Building a rnn step by step
+- Building a RNN step by step
 - Dinosaur island -- Character-level language model
 - Emojify 
 - Jazz improvisation with LSTM
 - Machine translation
 - Trigger word detection 
 - Word vector representation
+
+7. [Lab 1](https://github.com/jiayinghsu/dl_programming_exercises/tree/main/lab1)
+- Music generation with RNN
+
+8. [Lab 2](https://github.com/jiayinghsu/dl_programming_exercises/tree/main/lab2)
+- MNIST digit classification 
+- Debiasing facial detection system
+
+9. [Lab 3](https://github.com/jiayinghsu/dl_programming_exercises/tree/main/lab3)
+- Reinforcement learning 
